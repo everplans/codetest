@@ -1,9 +1,9 @@
 Everplans Codetest. 
 =================
 
-This code base is a barebones rails app. Use this as a starting point (feel free to work with either Node.js or Scala if you are more comfortable.) The essential goal is to create a questionaire app with two  workflows. 
+This code base is a barebones rails app. Use this as a starting point (feel free to work with either Node.js or Scala if you are more comfortable.) The essential goal is to create a questionnaire app with two  workflows. 
 
-### Defining the questionaire
+### Defining the questionnaire
 
 Here a user can name the form. And define a series of questions. For simplicity sake, each question has the following attributes:
 
@@ -11,7 +11,7 @@ Here a user can name the form. And define a series of questions. For simplicity 
 * Label. Descriptive text for the question itself.
 * Answer. To keep it simple, a text field is fine. No need to have radio, check, or select boxes.
 
-### Filling out the questionaire
+### Filling out the questionnaire
 
 Here a user simply fills out the form, and submits it. The system will record the answers in a persistance store of your choosing. (mySQL, SQLite3, mongoDB, etc.).
 
