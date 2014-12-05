@@ -3,7 +3,7 @@ Everplans Codetest.
 
 This code base is a barebones rails app. Use this as a starting point (feel free to work with either Node.js or Scala if you are more comfortable.) The essential goal is to create a questionaire app with two  workflows. 
 
-### Defining the questoinaire
+### Defining the questionaire
 
 Here a user can name the form. And define a series of questions. For simplicity sake, each question has the following attributes:
 
@@ -27,7 +27,7 @@ Tailor the app to your experience. If you are applying for the junior role, a mo
 * Annotate your code. Give a brief description of your approach in the readme. Include any-non obvious setup instructions in the readme. Where possible, make your code self documenting (well named variables, methods, and clear composition of responsibility).
 
 ## How to submit.
-Have people submit as a PR? Downside there is it is likely visible by others... Have them push a branch to a prviate repo? Email a zip?
+For now, please zip it all up and email it to us!
 
 ## Bonus points.
 
