@@ -15,7 +15,7 @@ Here a user can name the form. And define a series of questions. For simplicity 
 
 Here a user simply fills out the form, and submits it. The system will record the answers in a persistance store of your choosing. (mySQL, SQLite3, mongoDB, etc.).
 
-### Create a page to view user answers
+### Viewing user answers
 
 Create a simple admin page that lists the name (or some descriptor) of each user who filled out each questionnaire, when they did it, and what their answers to the questions were. 
 
