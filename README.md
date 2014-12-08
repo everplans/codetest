@@ -1,4 +1,4 @@
-Everplans Codetest. 
+Everplans Codetest
 =================
 
 This code base is a barebones rails app. Use this as a starting point (feel free to work with either Node.js or Scala if you are more comfortable.) The essential goal is to create a questionnaire app with three workflows. Clone this repo but don't fork it (you don't want to point other people to your answer!).
