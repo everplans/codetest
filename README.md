@@ -37,11 +37,11 @@ For now, please zip it all up and email it to us! We'll run it locally. You can 
 
 _The following are not required, but would definitely help set you apart from your competition:_
 
-* Use front end frameworks such as Backbone (unless you are applying for the UI position; in that case, it's required).
+* Use front end frameworks such as React (unless you are applying for the UI position; in that case, it's required).
 * Use frontend integration tests (mocha, jasmine, etc.).
 * Make it responsive/adaptive to different screen sizes (smart phone, tablet, desktop).
 * Leverage HTML5/css.
-* Use css/html boilerplate frame works (sass, twitter-bootstrap, bourbon, etc..).
+* Use css/html boilerplate frame works (sass, twitter-bootstrap, bourbon, stylus, jeet, etc..).
 
 Overall, have fun with this, we want to see the code you like to write. Reachout if you have any questions or comments. Looking forward to seeing your code!
 
