@@ -33,8 +33,8 @@ Tailor the app to your experience. If you are applying for the junior role, a mo
 For now, please zip it all up and email it to us! We'll run it locally. You can also launch it in a heroku instance, but we'll still need the code.
 
 ## What language / How to code it: 
-For rails, clone this very repo.
-For react, feel free to clone this boilerplate: https://github.com/everplans/react-boilerplate (which has some examples of how to use our test tools), or feel free to use your own boilerplate.
+* For rails, clone this very repo.
+* For react, feel free to clone this boilerplate: https://github.com/everplans/react-boilerplate (which has some examples of how to use our test tools), or feel free to use your own boilerplate.
 
 If you done clone one  of our repos, make sure not to fork it, so that you don't make your code available to other candiates! Just clone it and send us a zip as per above. 
 
