@@ -12,7 +12,7 @@ As an administrative user, I would like to define what goes into the questionair
 
 ### Filling out the questionnaire
 
-As an end-user I can view a questionnaire, and fill it out, and submit it. The system will record the answers in a persistance store of your choosing. (mySQL, SQLite3, mongoDB, localstorage in the browser, etc.).
+As an end-user I can view a questionnaire, and fill it out, and submit it. The system will record the answers in a persistance store of your choosing. (mySQL, SQLite3, mongoDB, localstorage in the browser, firebase, etc.).
 
 ### Viewing user answers
 
@@ -34,7 +34,7 @@ For now, please zip it all up and email it to us! We'll run it locally. You can 
 
 ## What language / How to code it: 
 * For rails, clone this very repo.
-* For react, feel free to clone this boilerplate: https://github.com/everplans/react-boilerplate (which has some examples of how to use our test tools), or feel free to use your own boilerplate.
+* For react, there are many boilerplate, generators out there. We don't care which you'd like to use. If you want to experiment with some of our homegrown tools (by no means a requirement!), feel free to clone this boilerplate: https://github.com/everplans/react-boilerplate (which has some examples of how to use our test tools).
 
 If you do clone one of our repos, make sure not to fork it, so that you don't make your code available to other candiates! Just clone it and send us a zip as per above. 
 
@@ -44,7 +44,7 @@ _The following are not required, but would definitely help set you apart from yo
 
 * Use front end frameworks such as React (unless you are applying for the fontend position; in that case, it's required).
 * Use frontend integration tests (mocha, jasmine, etc.).
-* For super, super bonus points, use some of the patterns from TestRig or fluxxed_up (examples in the boilerplate repo). 
+* For super, super bonus points, use some of the patterns from TestRig or `fluxxed_up` (examples in the boilerplate repo). 
 * Make it responsive/adaptive to different screen sizes (smart phone, tablet, desktop).
 * Leverage HTML5/css.
 * Use css/html boilerplate frame works (sass, twitter-bootstrap, bourbon, stylus, jeet, etc..).
