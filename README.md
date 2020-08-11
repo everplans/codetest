@@ -34,7 +34,7 @@ For now, please zip it all up and email it to us! We'll run it locally. You can 
 
 ## What language / How to code it: 
 * For rails, clone this very repo.
-* For react, there are many boilerplate, generators out there. We don't care which you'd like to use. If you want to experiment with some of our homegrown tools (by no means a requirement!), feel free to clone this boilerplate: https://github.com/everplans/react-boilerplate (which has some examples of how to use our test tools).
+* For react, there are many boilerplate, generators out there. We don't care which you'd like to use. It's probably easiest to use: https://reactjs.org/docs/create-a-new-react-app.html#create-react-app , but not required. 
 
 If you do clone one of our repos, make sure not to fork it, so that you don't make your code available to other candiates! Just clone it and send us a zip as per above. 
 
